@@ -22,7 +22,7 @@ A more detailed version of my CV is available [here](../assets/cv.pdf).
 
 ## Teaching experience
 
-Teaching assistant at Université Paris-Saclay for two years:
-* Introduction to Computer Science and Complexity Theory: 2016-2018
-* Numerical Computing: 2016-2018.
-* Object Oriented Programming (Advanced):2016-2018
+*Teaching assistant at Université Paris-Saclay for two years:
+	* Introduction to Computer Science and Complexity Theory: 2016-2018
+	* Numerical Computing: 2016-2018.
+	* Object Oriented Programming (Advanced):2016-2018

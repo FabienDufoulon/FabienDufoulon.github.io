@@ -9,9 +9,8 @@ When talking about programmable matter, one imagines numerous tiny robots coming
 These robots can both sense and affect their environment but, for scalability reasons, are extremely weak in memory, mobility and communication.
 Surprisingly, despite this, they can coordinate together to achieve complex global tasks such as shape formation, self-healing, dispersion, aggregation and monitoring. <br>
 
-During this postdoc, I have had the pleasure to work with Shay Kutten, Yuval Emek and Keren Censor-Hillel.
-Before that, I graduated in 2016 from Centrale Supélec, one of the top French "grandes écoles". 
-After which, I received my Ph.D. in 2019 from the Université Paris-Saclay with Joffroy Beauquier and Janna Burman as my advisers.
+During this postdoc, I have had the pleasure to work with Shay Kutten, Yuval Emek and Keren Censor-Hillel. 
+Before that, I received my Ph.D. in 2019 from the Université Paris-Saclay with Joffroy Beauquier and Janna Burman as my advisers.
 
 ## Research Focus
 Distributed systems of weak devices are currently my main research focus. Happily for me, the study of such systems greatly intersects with that of biologically-inspired distributed algorithms, one of my childhood fascinations.

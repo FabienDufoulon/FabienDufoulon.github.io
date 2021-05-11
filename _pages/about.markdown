@@ -6,7 +6,7 @@ permalink: /about/
 ## Beginnings
 
 I was introduced to academia by Joanna Tomasik and Johanne Cohen of the Laboratoire Interdisciplinaire des Sciences du Numérique (LISN) of the Université Paris-Saclay. 
-My very first research (school) project with Joanna Tomasik was about studying quantum simulated annealing as well as its possible improvements over classical simulated annealing.
+My very first research (school) project with Joanna Tomasik was about studying quantum annealing as well as its possible improvements over the more classical simulated annealing.
 My second project, during a summer internship with Johanne Cohen, was on the other hand focused on the application of game theory to online agents. 
 
 

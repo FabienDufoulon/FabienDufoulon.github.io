@@ -8,8 +8,8 @@ I am a postdoc at the Technion in Israel. I currently study *biologically-inspir
 When talking about programmable matter, one imagines numerous tiny robots coming together to form whatever object is needed at the moment. 
 These robots can both sense and affect their environment but, for scalability reasons, are extremely weak in memory, mobility and communication.
 Surprisingly, despite this, they can coordinate together to achieve complex global tasks such as shape formation, self-healing, dispersion, aggregation and monitoring. <br>
-During this postdoc, I have had the pleasure to work with Shay Kutten, Yuval Emek and Keren Censor-Hillel.
 
+During this postdoc, I have had the pleasure to work with Shay Kutten, Yuval Emek and Keren Censor-Hillel.
 Before that, I graduated in 2016 from Centrale Supélec, one of the top French "grandes écoles". 
 After which, I received my Ph.D. in 2019 from the Université Paris-Saclay with Joffroy Beauquier and Janna Burman as my advisers.
 

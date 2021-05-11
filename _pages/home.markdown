@@ -2,7 +2,6 @@
 title: ""
 layout : single
 permalink : /
-hidden : true
 ---
 
 I received my Ph.D. from the Université Paris-Saclay, supervised by Joffroy Beauquier and Janna Burman. During it, I studied *distributed systems of weak devices* (with regards to communication).   

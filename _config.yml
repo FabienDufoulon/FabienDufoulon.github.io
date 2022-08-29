@@ -98,9 +98,9 @@ analytics:
 author:
   name             : "Fabien Dufoulon"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral researcher in distributed computing at the Technion in Israel. "
-  location         : "Haifa, Israel"
-  email            : "dfabien@campus.technion.ac.il"
+  bio              : "Postdoctoral researcher in distributed computing at the University of Houston in Texas, USA. "
+  location         : "Houston, Texas, USA"
+  email            : "fdufoulon@uh.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

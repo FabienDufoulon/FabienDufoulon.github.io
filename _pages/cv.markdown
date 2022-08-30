@@ -4,11 +4,12 @@ layout : single
 permalink : /cv/
 ---
 
-A more detailed version of my CV is available [here](../assets/cv.pdf).
+[]: # (A more detailed version of my CV is available [here](../assets/cv.pdf).)
 
 ## Short CV
 
-* Since November 2019: Postdoc at the Technion, Haifa, Israel.
+* Since November 2021: Postdoc at the University of Houston, Houston, Texas, USA.
+* 2019-2021: Postdoc at the Technion, Haifa, Israel.
 * 2016-2019: PhD in computer science, Université Paris-Saclay, Orsay, France.
 * 2013-2016: Engineering degree with computer science major, CentraleSupélec, Gif-sur-Yvette, France.
 * 2011-2013: Undergraduate intensive course in mathematics and physics, Lycée Stanislas, Paris, France.
@@ -16,9 +17,9 @@ A more detailed version of my CV is available [here](../assets/cv.pdf).
 ## Scientific Activities
 
 * Public talks:
-	* INFOCOM 2018, PODC 2018, DISC 2018, SIROCCO 2019, PODC 2020, HALG 2020.
+	* INFOCOM 2018, PODC 2018, DISC 2018, SIROCCO 2019, PODC 2020, HALG 2020, PODC 2021.
 	* LIP6 (Université Sorbonne), LRI (Université Paris-Saclay), Technion, LIS (Université Aix-Marseille) and LABRI (Université de Bordeaux).
-* External reviewer: PODC, DISC, OPODIS, SSS, SPAA, Distributed Computing and IEEE Wireless Communications Letters.
+* External reviewer: PODC, DISC, STOC, SPAA, OPODIS, STACS, SAND, SSS, ICDCS, LATIN, Distributed Computing, Theoretical Computer Science and IEEE Wireless Communications Letters.
 
 ## Teaching experience
 

@@ -5,10 +5,15 @@ permalink: /publications/
 
 You can find an up-to-date list of my publications and preprints on my [dblp page](https://dblp.uni-trier.de/pid/203/0763.html). 
 
+## Conference Papers (under submission)
+
+* **Beeping Shortest Paths via Hypergraph Bipartite Decomposition** <br> Fabien Dufoulon, Yuval Emek, Ran Gelles
+* **Sleeping is Superefficient: MIS in Exponentially Better Awake Complexity** <br> Fabien Dufoulon, William K. Moses Jr., Gopal Pandurangan <br> [Full Version (Arxiv)](https://arxiv.org/abs/2204.08359)
 
 ## Conference Papers
 
-* **Efficient Deterministic Leader Election for Programmable Matter** <br> Fabien Dufoulon, Shay Kutten, William K. Moses Jr. <br> PODC 2021 (just accepted!)
+* **An Almost Singularly Optimal Asynchronous Distributed MST Algorithm** <br> Fabien Dufoulon, Shay Kutten, William K. Moses Jr., Gopal Pandurangan and David Peleg <br> DISC 2022
+* **Efficient Deterministic Leader Election for Programmable Matter** <br> Fabien Dufoulon, Shay Kutten, William K. Moses Jr. <br> [PODC 2021](https://dl.acm.org/doi/abs/10.1145/3465084.3467900), [Full Version (Arxiv)](https://arxiv.org/abs/2106.01108)
 * **Can Uncoordinated Beeps tell Stories?** <br> Fabien Dufoulon, Janna Burman, Joffroy Beauquier <br> [PODC 2020](https://dl.acm.org/doi/10.1145/3382734.3405699), [Full Version (HAL)](https://hal.archives-ouvertes.fr/hal-02860827)
 * **Optimal Multi-broadcast with Beeps using Group Testing** <br> Joffroy Beauquier, Janna Burman, Peter Davies, Fabien Dufoulon <br> [SIROCCO 2019](https://link.springer.com/chapter/10.1007/978-3-030-24922-9_5), [Full Version (HAL)](https://hal.archives-ouvertes.fr/hal-02140017)
 * **Beeping a Deterministic Time-Optimal Leader Election** <br> Fabien Dufoulon, Janna Burman, Joffroy Beauquier <br> [DISC 2018](https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=9809), [Full Version (HAL)](https://hal.archives-ouvertes.fr/hal-01794711)

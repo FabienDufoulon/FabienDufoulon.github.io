@@ -1,10 +1,10 @@
 ---
 title: "CV"
-layout : single
+layout : default
 permalink : /cv/
 ---
 
-[]: # (A more detailed version of my CV is available [here](../assets/cv.pdf).)
+A more detailed version of my CV is available [here](../assets/cv.pdf). (To be updated.)
 
 ## Short CV
 
@@ -19,7 +19,7 @@ permalink : /cv/
 * Public talks:
 	* INFOCOM 2018, PODC 2018, DISC 2018, SIROCCO 2019, PODC 2020, HALG 2020, PODC 2021.
 	* LIP6 (Université Sorbonne), LRI (Université Paris-Saclay), Technion, LIS (Université Aix-Marseille) and LABRI (Université de Bordeaux).
-* External reviewer: PODC, DISC, STOC, SPAA, OPODIS, STACS, SAND, SSS, ICDCS, LATIN, Distributed Computing, Theoretical Computer Science and IEEE Wireless Communications Letters.
+* External reviewer: PODC, DISC, STOC, SPAA, OPODIS, STACS, SAND, SSS, ICDCS, LATIN, ITCS, Distributed Computing, Theoretical Computer Science and IEEE Wireless Communications Letters.
 
 ## Teaching experience
 

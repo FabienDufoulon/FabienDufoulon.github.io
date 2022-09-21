@@ -1,8 +1,14 @@
 ---
-title: ""
-layout : single
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+title: "Home"
+layout: default
 permalink : /
 ---
 
-I am a postdoc at the University of Houston (Texas, USA) where I work mostly with Gopal Pandurangan. During my previous postdoc (Technion, Israel), I have had the pleasure to work with Shay Kutten, Yuval Emek and Keren Censor-Hillel. 
-Before that, I received my Ph.D. in 2019 from the Université Paris-Saclay with Joffroy Beauquier and Janna Burman as my advisors.
+{% include_relative personalIntro.markdown %}
+
+{% include_relative news.markdown %}
+
+{% include_relative publications.markdown %}

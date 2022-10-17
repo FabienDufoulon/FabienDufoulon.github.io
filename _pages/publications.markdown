@@ -14,7 +14,7 @@ You can find an up-to-date list of my publications and preprints on my [dblp pag
 #### 2022
 
 {:.publicationYearList}
-* {:.publicationItem} **An Almost Singularly Optimal Asynchronous Distributed MST Algorithm** <br> Fabien Dufoulon, Shay Kutten, William K. Moses Jr., Gopal Pandurangan and David Peleg <br> DISC 2022, [Full Version (Arxiv)](https://arxiv.org/abs/2210.01173)
+* {:.publicationItem} **An Almost Singularly Optimal Asynchronous Distributed MST Algorithm** <br> Fabien Dufoulon, Shay Kutten, William K. Moses Jr., Gopal Pandurangan and David Peleg <br> [DISC 2022](https://doi.org/10.4230/LIPIcs.DISC.2022.19), [Full Version (Arxiv)](https://arxiv.org/abs/2210.01173)
 
 #### 2021
 

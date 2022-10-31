@@ -1,4 +1,4 @@
 ## News 
 
-* Soon presenting our recently accepted paper, "An Almost Singularly Optimal Asynchronous Distributed MST Algorithm", at DISC 2022 in Augusta (Georgia, USA).
+* "Beeping Shortest Paths via Hypergraph Bipartite Decomposition" was accepted at ITCS 2023.
 * Working as the publicity co-chair for PODC 2023. 

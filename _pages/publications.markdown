@@ -4,12 +4,14 @@ You can find an up-to-date list of my publications and preprints on my [dblp pag
 
 ### Conference Papers (under submission)
 
-* {:.publicationItem} **Beeping Shortest Paths via Hypergraph Bipartite Decomposition** <br> Fabien Dufoulon, Yuval Emek, Ran Gelles <br> [Full Version (Arxiv)](https://arxiv.org/abs/2210.06882)
 * {:.publicationItem} **Sleeping is Superefficient: MIS in Exponentially Better Awake Complexity** <br> Fabien Dufoulon, William K. Moses Jr., Gopal Pandurangan <br> [Full Version (Arxiv)](https://arxiv.org/abs/2204.08359)
 
 ### Conference Papers
 
+#### 2023
 
+{:.publicationYearList}
+* {:.publicationItem} **Beeping Shortest Paths via Hypergraph Bipartite Decomposition** <br> Fabien Dufoulon, Yuval Emek, Ran Gelles <br> ITCS 2023, [Full Version (Arxiv)](https://arxiv.org/abs/2210.06882)
 
 #### 2022
 

@@ -18,5 +18,5 @@ Philip Guthrie Hoffman Hall <br>
 3551 Cullen Blvd, Room 501 <br>
 Houston, Texas 77204-3010 <br>
 
-Email: fdufoulon@uh.edu <br>
+Email: fabien.dufoulon.cs@gmail.com <br>
 Twitter: [FDufoulon](https://twitter.com/FDufoulon)

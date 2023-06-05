@@ -4,7 +4,7 @@ layout : default
 permalink : /cv/
 ---
 
-A more detailed version of my CV is available [here](../assets/cv.pdf). (To be updated.)
+A more detailed version of my CV is available [here](../assets/cv.pdf).
 
 ## Short CV
 
@@ -17,7 +17,7 @@ A more detailed version of my CV is available [here](../assets/cv.pdf). (To be u
 ## Scientific Activities
 
 * Public talks:
-	* INFOCOM 2018, PODC 2018, DISC 2018, SIROCCO 2019, PODC 2020, HALG 2020, PODC 2021.
+	* INFOCOM 2018, PODC 2018, DISC 2018, SIROCCO 2019, PODC 2020, HALG 2020, PODC 2021, DISC 2022, ITCS 2023, PODC 2023 (upcoming).
 	* LIP6 (Université Sorbonne), LRI (Université Paris-Saclay), Technion, LIS (Université Aix-Marseille) and LABRI (Université de Bordeaux).
 * External reviewer: PODC, DISC, STOC, SPAA, OPODIS, STACS, SAND, SSS, ICDCS, LATIN, ITCS, Distributed Computing, Theoretical Computer Science and IEEE Wireless Communications Letters.
 

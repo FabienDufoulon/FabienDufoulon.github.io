@@ -6,7 +6,7 @@ You can find an up-to-date list of my publications and preprints on my [dblp pag
 ### Conference Papers
 
 {:.publicationYearList}
-* {:.publicationItem} **Distributed MIS in O(log log n) Awake Complexity** <br> Fabien Dufoulon, William K. Moses Jr., Gopal Pandurangan <br> PODC 2023, [Full Version (Arxiv)](https://arxiv.org/abs/2204.08359)
+* {:.publicationItem} **Distributed MIS in O(log log n) Awake Complexity** <br> Fabien Dufoulon, William K. Moses Jr., Gopal Pandurangan <br> [PODC 2023](https://dl.acm.org/doi/abs/10.1145/3583668.3594574), [Full Version (Arxiv)](https://arxiv.org/abs/2204.08359)
 * {:.publicationItem} **Beeping Shortest Paths via Hypergraph Bipartite Decomposition** <br> Fabien Dufoulon, Yuval Emek, Ran Gelles <br> [ITCS 2023](https://drops.dagstuhl.de/opus/volltexte/2023/17548/), [Full Version (Arxiv)](https://arxiv.org/abs/2210.06882)
 * {:.publicationItem} **An Almost Singularly Optimal Asynchronous Distributed MST Algorithm** <br> Fabien Dufoulon, Shay Kutten, William K. Moses Jr., Gopal Pandurangan and David Peleg <br> [DISC 2022](https://doi.org/10.4230/LIPIcs.DISC.2022.19), [Full Version (Arxiv)](https://arxiv.org/abs/2210.01173)
 * {:.publicationItem} **Efficient Deterministic Leader Election for Programmable Matter** <br> Fabien Dufoulon, Shay Kutten, William K. Moses Jr. <br> [PODC 2021](https://dl.acm.org/doi/abs/10.1145/3465084.3467900), [Full Version (Arxiv)](https://arxiv.org/abs/2106.01108)

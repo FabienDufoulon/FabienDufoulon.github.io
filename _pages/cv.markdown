@@ -8,7 +8,7 @@ A more detailed version of my CV is available [here](../assets/cv.pdf).
 
 ## Short CV
 
-* Soon: Lecturer at Lancaster University, Lancaster, United Kingdom
+* 2023-now: Lecturer at Lancaster University, Lancaster, United Kingdom
 * 2021-2023: Postdoc at the University of Houston, Houston, Texas, USA.
 * 2019-2021: Postdoc at the Technion, Haifa, Israel.
 * 2016-2019: PhD in computer science, Paris-Saclay University, Orsay, France.

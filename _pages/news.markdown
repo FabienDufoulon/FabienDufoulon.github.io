@@ -1,3 +1,3 @@
 ## News 
 
-* I will be giving a seminar talk at Durham on the 3rd of May.
+* My paper "Fully-Distributed Byzantine Agreement in Sparse Networks" (joint work with John Augustine and Gopal Pandurangan) was accepted at SODA25.

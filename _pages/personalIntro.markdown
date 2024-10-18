@@ -4,7 +4,7 @@
 
 
 {:.intro}
-I am a lecturer at Lancaster University (UK). 
+I am a lecturer at Lancaster University (UK). The position is roughly equivalent to an assistant professorship (US) and to Maître de Conférences (FR).
 
 {:.intro}
 My research interests lie in the areas of algorithms (with a focus on graph algorithms) and distributed computing. In particular, I am interested in designing frugal algorithms, or in other words, algorithms that use less messages, less energy, less memory, weaker communication mechanisms, etc., and finding out when this must come at the cost of the algorithm's runtime. 

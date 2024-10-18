@@ -1,5 +1,5 @@
 {:.imagePerso}
-![Personal Picture](assets/images/bio-photo.png){:.image}
+![Personal Picture](assets/images/recent-bio-photo.JPG){:.image}
 
 
 

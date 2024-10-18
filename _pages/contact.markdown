@@ -15,4 +15,4 @@ Before that, I received my Ph.D. in 2019 from Paris-Saclay University with Joffr
 Address: School of Computing and Communications, InfoLab21, Lancaster University, <br>
         Lancaster, United Kingdom, LA1 4WA <br>
 
-Email: fabien.dufoulon.cs@gmail.com
+Email: fabien.dufoulon.cs@gmail.com or f.dufoulon@lancaster.ac.uk

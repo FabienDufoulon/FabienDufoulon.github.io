@@ -7,6 +7,7 @@ You can find an up-to-date list of my publications and preprints on my [dblp pag
 
 {:.publicationYearList}
 * {:.publicationItem} **Fully-Distributed Byzantine Agreement in Sparse Networks** <br> John Augustine, Fabien Dufoulon and Gopal Pandurangan <br> [SODA 2025]
+* {:.publicationItem} **The Singular Optimality of Distributed Computation in LOCAL** <br> Fabien Dufoulon, Gopal Pandurangan, Peter Robinson and Michele Scquizzato <br> [OPODIS 2024]
 * {:.publicationItem} **The Message Complexity of Distributed Graph Optimization** <br> Fabien Dufoulon, Shreyas Pai, Gopal Pandurangan, Sriram V. Pemmaraju, and Peter Robinson <br> [ITCS 2024](https://doi.org/10.4230/LIPIcs.ITCS.2024.41), [Full Version (Arxiv)](https://arxiv.org/abs/2311.14811)
 * {:.publicationItem} **Time- and Communication-Efficient Overlay Network Construction via Gossip** <br>  Fabien Dufoulon, Michael Moorman, William K. Moses Jr., and Gopal Pandurangan <br> [ITCS 2024](https://doi.org/10.4230/LIPIcs.ITCS.2024.42), [Full Version (Arxiv)](https://arxiv.org/abs/2311.17115)
 * {:.publicationItem} **Distributed MIS in O(log log n) Awake Complexity** <br> Fabien Dufoulon, William K. Moses Jr., Gopal Pandurangan <br> [PODC 2023](https://dl.acm.org/doi/abs/10.1145/3583668.3594574), [Full Version (Arxiv)](https://arxiv.org/abs/2204.08359)

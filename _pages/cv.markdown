@@ -27,7 +27,7 @@ A more detailed version of my CV is available [here](../assets/cv.pdf).
 
 * Lecturer at Lancaster University (2023-now):
 	* Fundamentals of Computer Science: Basic Algorithms
- 	* Concurrent and Parallel Systems  
+	* Concurrent and Parallel Systems  
 * Teaching assistant at Paris-Saclay University for two years:
 	* Introduction to Computer Science and Complexity Theory: 2016-2018
 	* Numerical Computing: 2016-2018.

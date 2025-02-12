@@ -6,6 +6,7 @@ You can find an up-to-date list of my publications and preprints on my [dblp pag
 ### Conference Papers
 
 {:.publicationYearList}
+* {:.publicationItem} **Quantum Communication Advantage for Leader Election and Agreement** <br> Fabien Dufoulon, Frédéric Magniez and Gopal Pandurangan <br> [Full Version (Arxiv)](https://arxiv.org/abs/2502.07416)
 * {:.publicationItem} **Fully-Distributed Byzantine Agreement in Sparse Networks** <br> John Augustine, Fabien Dufoulon and Gopal Pandurangan <br> [SODA 2025](https://epubs.siam.org/doi/10.1137/1.9781611978322.142), [Full Version (Arxiv)](https://arxiv.org/abs/2410.20865)
 * {:.publicationItem} **The Singular Optimality of Distributed Computation in LOCAL** <br> Fabien Dufoulon, Gopal Pandurangan, Peter Robinson and Michele Scquizzato <br> [OPODIS 2024](https://doi.org/10.4230/LIPIcs.OPODIS.2024.26), [Full Version (Arxiv)](https://arxiv.org/abs/2411.07011)
 * {:.publicationItem} **The Message Complexity of Distributed Graph Optimization** <br> Fabien Dufoulon, Shreyas Pai, Gopal Pandurangan, Sriram V. Pemmaraju, and Peter Robinson <br> [ITCS 2024](https://doi.org/10.4230/LIPIcs.ITCS.2024.41), [Full Version (Arxiv)](https://arxiv.org/abs/2311.14811)

@@ -1,5 +1,3 @@
 ## News 
 
-* My paper "Fully-Distributed Byzantine Agreement in Sparse Networks" (joint work with John Augustine and Gopal Pandurangan) was accepted at SODA25. I will be presenting our results in New Orleans (US) in January 2025.
-* Additionally, my paper "The Singular Optimality of Distributed Computation in LOCAL" (joint work with Gopal Pandurangan, Peter Robinson and Michele Scquizzato) was accepted at OPODIS 2024. Michele will be presenting these results at Lucca (Italy) in December 2024.
-  
+* We recently submitted "Quantum Communication Advantage for Leader Election and Agreement" (joint work with Frédéric Magniez and Gopal Pandurangan). This work provides a new framework for quantum distributed networks, in which one can design more frugal (in terms of message sent) quantum distributed algorithms.

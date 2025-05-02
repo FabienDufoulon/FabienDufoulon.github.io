@@ -1,6 +1,6 @@
 ## News 
 
-* Four of my papers will be part of the PODC 2025 program:
+* Four of my papers will be part of the PODC 2025 program ([PODC 25, List of accepted papers](https://www.podc.org/podc2025/list-of-accepted-papers/)):
    - "Quantum Communication Advantage for Leader Election and Agreement"
    - "Message Optimality and Message-Time Trade-offs for APSP and Beyond"
    - "Improved Byzantine Agreement under an Adaptive Adversary"

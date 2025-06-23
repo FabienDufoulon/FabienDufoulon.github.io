@@ -1,8 +1,4 @@
 ## News 
 
-* Four of my papers will be part of the PODC 2025 program ([PODC 25, List of accepted papers](https://www.podc.org/podc2025/list-of-accepted-papers/)):
-   - "Quantum Communication Advantage for Leader Election and Agreement"
-   - "Message Optimality and Message-Time Trade-offs for APSP and Beyond"
-   - "Improved Byzantine Agreement under an Adaptive Adversary"
-   - "Energy-Efficient Maximal Independent Sets in Radio Networks" (as a brief announcement) 
-* We recently submitted "Quantum Communication Advantage for Leader Election and Agreement" (joint work with Frédéric Magniez and Gopal Pandurangan). This work provides a new framework for quantum distributed networks, in which one can design more frugal (in terms of message sent) quantum distributed algorithms.
+* For our work "Improved Byzantine Agreement under an Adaptive Adversary" with [Gopal Pandurangan](https://sites.google.com/site/gopalpandurangan/home), we shared the **Best Paper award of PODC 2025** with ["Byzantine Stable Matching"](https://dl.acm.org/doi/10.1145/3732772.3733525), from [Andrei Constantinescu](https://andrei1998.github.io/), [Marc Dufay](https://disco.ethz.ch/members/mdufay), [Diana Ghinea](https://disco.ethz.ch/alumni/ghinead) and [Roger Wattenhofer](https://disco.ethz.ch/members/wroger) 
+* Four of my papers were accepted to PODC 2025 ([PODC 25, List of accepted papers](https://www.podc.org/podc2025/list-of-accepted-papers/)).

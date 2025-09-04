@@ -6,6 +6,7 @@ You can find an up-to-date list of my publications and preprints on my [dblp pag
 ### Conference Papers
 
 {:.publicationYearList}
+* {:.publicationItem} **Energy-Efficient Maximal Independent Sets in Radio Networks** <br> Dominick Banasik, Varsha Dani, Fabien Dufoulon, Aayush Gupta, Thomas Hayes and Gopal Pandurangan <br> [DISC 2025]
 * {:.publicationItem} **Improved Byzantine Agreement under an Adaptive Adversary** ***(Best Paper Award)*** <br> Fabien Dufoulon and Gopal Pandurangan <br> [PODC 2025](https://dl.acm.org/doi/10.1145/3732772.3733553), [Full Version (Arxiv)](https://arxiv.org/abs/2506.04919)
 * {:.publicationItem} **Message Optimality and Message-Time Trade-offs for APSP and Beyond** <br> Fabien Dufoulon, Shreyas Pai, Gopal Pandurangan, Sriram Pemmaraju and Peter Robinson <br> [PODC 2025](https://dl.acm.org/doi/10.1145/3732772.3733506), [Full Version (Arxiv)](https://arxiv.org/abs/2504.21781)
 * {:.publicationItem} **Quantum Communication Advantage for Leader Election and Agreement** <br> Fabien Dufoulon, Frédéric Magniez and Gopal Pandurangan <br> [PODC 2025](https://dl.acm.org/doi/10.1145/3732772.3733509), [Full Version (Arxiv)](https://arxiv.org/abs/2502.07416)

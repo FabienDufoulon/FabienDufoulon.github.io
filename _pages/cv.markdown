@@ -18,7 +18,7 @@ A more detailed version of my CV is available [here](../assets/cv.pdf).
 ## Scientific Activities
 
 * Public talks:
-	* Conference talks at INFOCOM 2018, PODC 2018, DISC 2018, SIROCCO 2019, PODC 2020, HALG 2020, PODC 2021, DISC 2022, ITCS 2023, PODC 2023.
+	* Conference talks at INFOCOM 2018, PODC 2018, DISC 2018, SIROCCO 2019, PODC 2020, HALG 2020, PODC 2021, DISC 2022, ITCS 2023, PODC 2023, SODA 2025, PODC 2025.
 	* Invited talks at Sorbonne University, Paris-Saclay University, Technion, Aix-Marseille University, University of Bordeaux, Paris Cité University, Lancaster University, IIT Madras and Durham University.
 * External reviewer for PODC, DISC, STOC, FOCS, SPAA, OPODIS, STACS, SAND, SSS, ICDCS, LATIN, ITCS, Distributed Computing, Theoretical Computer Science and IEEE Wireless Communications Letters.
 * Member of the program committees of STACS 2023, SIROCCO 2024, SSS 2024, ALGOWIN 2024, ICDCN 2025, EURO-PAR 2025, SSS 2025, ICDCN 2026.

@@ -4,8 +4,6 @@ layout : default
 permalink : /cv/
 ---
 
-A more detailed version of my CV is available [here](../assets/cv.pdf).
-
 ## Short CV
 
 * 2023-now: Lecturer at Lancaster University, Lancaster, United Kingdom

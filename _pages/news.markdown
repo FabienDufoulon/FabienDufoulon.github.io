@@ -1,3 +1,3 @@
 ## News 
 
-* My work on fast, bandwidth-limited gossip protocols for rumor spreading ("Fast Gossip-based Rumor Spreading using Small Messages") was accepted at PODC 2026.
+* My work on energy lower bounds for distributed networks ("Tight Energy Lower Bounds for Distributed Graph Algorithms") was accepted at DISC 2026.

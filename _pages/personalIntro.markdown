@@ -4,7 +4,7 @@
 
 
 {:.intro}
-I am a lecturer at Lancaster University (UK). The position is roughly equivalent to an assistant professorship (US) and to Maître de Conférences (FR).
+I am a maître de conférences at Bordeaux INP (France).
 
 {:.intro}
 My research interests lie in the areas of algorithms (with a focus on graph algorithms) and distributed computing. In particular, I have two major research directions within distributed computing. The first is the study and design of frugal algorithms, or in other words, algorithms that use less messages, less energy, less memory, weaker communication mechanisms, etc., and finding out when this must come at the cost of the algorithm's runtime. The second is the exploration of quantum advantages in quantum distributed networks (i.e., with quantum computation and communication), especially in term of communication costs, runtime, or even both simultaneously.

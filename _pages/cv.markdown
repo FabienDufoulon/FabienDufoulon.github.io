@@ -6,7 +6,8 @@ permalink : /cv/
 
 ## Short CV
 
-* 2023-now: Lecturer at Lancaster University, Lancaster, United Kingdom
+* 2026-present: Maître de conférences at Bordeaux INP and LaBRI, Bordeaux, France.
+* 2023-2026: Lecturer at Lancaster University, Lancaster, United Kingdom.
 * 2021-2023: Postdoc at the University of Houston, Houston, Texas, USA.
 * 2019-2021: Postdoc at the Technion, Haifa, Israel.
 * 2016-2019: PhD in computer science, Paris-Saclay University, Orsay, France.
@@ -23,7 +24,7 @@ permalink : /cv/
 
 ## Teaching experience
 
-* Lecturer at Lancaster University (2023-now):
+* Lecturer at Lancaster University (2023-2026):
 	* Fundamentals of Computer Science: Basic Algorithms
 	* Concurrent and Parallel Systems  
 * Teaching assistant at Paris-Saclay University for two years:

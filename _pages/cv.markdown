@@ -6,7 +6,7 @@ permalink : /cv/
 
 ## Short CV
 
-* 2026-present: Maître de conférences at Bordeaux INP and LaBRI, Bordeaux, France.
+* 2026-present: Maître de conférences at Bordeaux INP / Université de Bordeaux, Bordeaux, France.
 * 2023-2026: Lecturer at Lancaster University, Lancaster, United Kingdom.
 * 2021-2023: Postdoc at the University of Houston, Houston, Texas, USA.
 * 2019-2021: Postdoc at the Technion, Haifa, Israel.

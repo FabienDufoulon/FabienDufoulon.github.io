@@ -6,7 +6,7 @@ You can find an up-to-date list of my publications and preprints on my [dblp pag
 ### Conference Papers
 
 {:.publicationYearList}
-* {:.publicationItem} **Tight Communication Bounds for Distributed Algorithms in the Quantum Routing Model** <br> Fabien Dufoulon, Frédéric Magniez and Gopal Pandurangan <br> [SODA 2027](), [Full Version (Arxiv)](https://arxiv.org/abs/2602.15529)
+* {:.publicationItem} **Tight Communication Bounds for Distributed Algorithms in the Quantum Routing Model** <br> Fabien Dufoulon, Frédéric Magniez and Gopal Pandurangan <br> [SODA 2027], [Full Version (Arxiv)](https://arxiv.org/abs/2602.15529)
 * {:.publicationItem} **Fast Gossip-based Rumor Spreading using Small Messages** <br> Fabien Dufoulon, William K. Moses Jr. and Gopal Pandurangan <br> [PODC 2026](https://dl.acm.org/doi/10.1145/3796701.3815943), [Full Version (Arxiv)](https://arxiv.org/abs/2605.14376)
 * {:.publicationItem} **Energy-Efficient Maximal Independent Sets in Radio Networks** <br> Dominick Banasik, Varsha Dani, Fabien Dufoulon, Aayush Gupta, Thomas Hayes and Gopal Pandurangan <br> [DISC 2025](https://doi.org/10.4230/LIPIcs.DISC.2025.14), [Full Version (Arxiv)](https://arxiv.org/abs/2510.08244)
 * {:.publicationItem} **Improved Byzantine Agreement under an Adaptive Adversary** ***(Best Paper Award)*** <br> Fabien Dufoulon and Gopal Pandurangan <br> [PODC 2025](https://dl.acm.org/doi/10.1145/3732772.3733553), [Full Version (Arxiv)](https://arxiv.org/abs/2506.04919)
